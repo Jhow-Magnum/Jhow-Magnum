@@ -53,15 +53,16 @@ Sou um profissional de **DevOps e SRE** extremamente apaixonado por **Linux** e 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhow-Magnum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhow-Magnum&show_icons=true&theme=dracula&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Magnum&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Magnum&layout=compact&theme=dracula&hide_border=true"/>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhow-Magnum&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhow-Magnum&theme=dracula&hide_border=true" />
 </div>
-
 ---
 
 ### ⚡ Fun Fact
