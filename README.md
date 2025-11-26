@@ -24,7 +24,7 @@ Sou um profissional de **DevOps e SRE** extremamente apaixonado por **Linux** e 
 * ☁️ **Cloud:** Vivência em AWS e Oracle Cloud (OCI).
 * 🐧 **Linux:** Usuário avançado (Hardcore user).
 * 🎓 **Formação:** Cursando Redes de Computadores.
-* 🎸 **Hobby:** Ouvir **Avenged Sevenfold**, Bitcoin e filmes Sci-Fi.
+* 🎸 **Hobby:** Ouvir **Avenged Sevenfold** e **Bloodwood**, Bitcoin e filmes Sci-Fi.
 
 ---
 
@@ -53,15 +53,15 @@ Sou um profissional de **DevOps e SRE** extremamente apaixonado por **Linux** e 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhow-Magnum&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhow-Magnum&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Magnum&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Magnum&layout=compact&theme=dracula"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhow-Magnum&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jhow-Magnum&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 ---
 
@@ -69,5 +69,5 @@ Sou um profissional de **DevOps e SRE** extremamente apaixonado por **Linux** e 
 > "Para mim, **Linux** é filosofia de vida, **Bitcoin** é liberdade e *Interestelar* é a melhor aula de física do cinema." 🚀
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Tocando_agora-Avenged_Sevenfold-black?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+  <img src="https://img.shields.io/badge/Tocando_agora-Avenged_Sevenfold_&_Bloodwood-black?style=for-the-badge&logo=spotify&logoColor=1DB954" />
 </div>
