@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%26+SRE;Infrastructure+as+Code;Python+Automation;Cloud+Enthusiast+(AWS+%2F+OCI)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%26+SRE;Linux+Hardcore+User;Docker+%26+Containerization;Cloud+Enthusiast+(AWS+%2F+OCI)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,13 +17,14 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um profissional focado em **DevOps e SRE** (Site Reliability Engineering), apaixonado por automatizar infraestrutura e otimizar processos de deploy. Com background em redes, hoje dedico meus estudos à nuvem e cultura DevOps.
+Sou um profissional de **DevOps e SRE** extremamente apaixonado por **Linux** e Open Source. Minha base técnica vem da segurança e redes, o que me permite construir infraestruturas não apenas ágeis, mas seguras (DevSecOps). Tenho forte domínio em **conteinerização** e orquestração.
 
-* 🚀 Atualmente focado em: **CI/CD, Kubernetes e Infraestrutura como Código**.
-* ☁️ Cloud: Experiência prática com **Oracle Cloud (OCI)** e estudos em **AWS**.
-* 🐍 Scripting: Automação de tarefas com **Python** e **Bash**.
-* 🎓 Formação: Cursando Redes de Computadores e diversos bootcamps de Cloud.
-* 🎸 Hobby: Ouvir **Avenged Sevenfold**, **Bitcoin** e filmes Sci-Fi.
+* 🏅 **Certificações:** Google Cybersecurity Professional & AWS Certified Cloud Practitioner (Formação).
+* 🐳 **Especialidade:** Criação e gestão de containers com **Docker**.
+* ☁️ **Cloud:** Vivência em AWS e Oracle Cloud (OCI).
+* 🐧 **Linux:** Usuário avançado (Hardcore user).
+* 🎓 **Formação:** Cursando Redes de Computadores.
+* 🎸 **Hobby:** Ouvir **Avenged Sevenfold**, Bitcoin e filmes Sci-Fi.
 
 ---
 
@@ -31,7 +32,7 @@ Sou um profissional focado em **DevOps e SRE** (Site Reliability Engineering), a
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   
@@ -64,7 +65,7 @@ Sou um profissional focado em **DevOps e SRE** (Site Reliability Engineering), a
 ---
 
 ### ⚡ Fun Fact
-> "Acredito que automação é vida, **Bitcoin** é o futuro e *Interestelar* deveria ser matéria obrigatória na escola." 🚀
+> "Para mim, **Linux** é filosofia de vida, **Bitcoin** é liberdade e *Interestelar* é a melhor aula de física do cinema." 🚀
 
 <div align="center">
   <img src="https://img.shields.io/badge/Tocando_agora-Avenged_Sevenfold-black?style=for-the-badge&logo=spotify&logoColor=1DB954" />
