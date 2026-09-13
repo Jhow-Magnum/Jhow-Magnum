@@ -22,15 +22,15 @@
 
 ## About
 
-IT Infrastructure and Network Professional with a strong focus on **NOC operations, LAN/WAN troubleshooting**, and sustaining high-availability environments[span_0](start_span)[span_0](end_span). 
+IT Infrastructure and Network Professional with a strong focus on **NOC operations, LAN/WAN troubleshooting**, and sustaining high-availability environments. 
 
-I approach IT infrastructure with a practical mindset, combining physical network management with cloud concepts and automation[span_1](start_span)[span_1](end_span). My goal is to build, secure, and optimize environments that just work.
+I approach IT infrastructure with a practical mindset, combining physical network management with cloud concepts and automation. My goal is to build, secure, and optimize environments that just work.
 
 My technical foundation revolves around:
-- **Routing and Switching:** Cisco CLI, IPv4/IPv6, VLANs, ACLs, NAT, HSRP[span_2](start_span)[span_2](end_span)
-- **Linux Administration:** Debian & Red Hat server management[span_3](start_span)[span_3](end_span)
-- **Network Automation:** Bash scripting and Python[span_4](start_span)[span_4](end_span)
-- **Cloud Infrastructure:** AWS concepts (VPC, IAM, Security Groups)[span_5](start_span)[span_5](end_span)
+- **Routing and Switching:** Cisco CLI, IPv4/IPv6, VLANs, ACLs, NAT, HSRP
+- **Linux Administration:** Debian & Red Hat server management
+- **Network Automation:** Bash scripting and Python
+- **Cloud Infrastructure:** AWS concepts (VPC, IAM, Security Groups)
 
 ---
 
@@ -38,13 +38,13 @@ My technical foundation revolves around:
 
 **Certifications:**
 - Cisco Certified Network Associate (CCNA 200-301)
-- AWS Certified Cloud Practitioner[span_6](start_span)[span_6](end_span)
-- Google Cybersecurity Professional Certificate[span_7](start_span)[span_7](end_span)
-- Huawei Computer Network (ICT Academy)[span_8](start_span)[span_8](end_span)
-- Cisco CyberOps Associate & Network Security[span_9](start_span)[span_9](end_span)
+- AWS Certified Cloud Practitioner
+- Google Cybersecurity Professional Certificate
+- Huawei Computer Network (ICT Academy)
+- Cisco CyberOps Associate & Network Security
 
 **Academic Background:**
-- **Degree in Computer Networks** - Instituto Federal de São Paulo (IFSP) *(In progress)*[span_10](start_span)[span_10](end_span)
+- **Degree in Computer Networks** - Instituto Federal de São Paulo (IFSP) *(In progress)*
 - **Computer Networks Technician** - Senac São Miguel Paulista
 
 ---
